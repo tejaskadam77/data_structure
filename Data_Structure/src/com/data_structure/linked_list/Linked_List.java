@@ -31,6 +31,11 @@ public class Linked_List {
 
 		}
 	}
+	
+	void insertInBetween(int data)
+	{
+		
+	}
 
 	void display_Linked_list() {
 		if (head == null) {
