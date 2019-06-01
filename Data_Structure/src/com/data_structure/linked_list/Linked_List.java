@@ -1,6 +1,7 @@
 package com.data_structure.linked_list;
 
 public class Linked_List {
+	private int listLength;
 	Node head = null;
 	private int Linked_List_Size = 0;
 
@@ -10,45 +11,89 @@ public class Linked_List {
 			head = temp;
 			Linked_List_Size++;
 		} else {
-			temp.next = head;
+			temp.setNext(head);
 			head = temp;
 			Linked_List_Size++;
 		}
 	}
 
-	void insert_At_End(int data) {
+	void append(int data) {
 		Node cur;
 		Node temp = new Node(data);
 		if (head == null) {
 			head = temp;
 		} else {
-			cur = new Node();
+			cur = new Node(data);
 			cur = head;
-			while (cur.next != null) {
-				cur = cur.next;
+			while (cur.getNext() != null) {
+				cur = cur.getNext();
 			}
-			cur.next = temp;
+			cur.setNext(temp);
 
 		}
+
 	}
-	
-	void insertInBetween(int data)
+	void insertAtGivenPosition(int data,int position)
 	{
-		
-	}
-
-	void display_Linked_list() {
-		if (head == null) {
-			System.out.println("no elements are present");
+		int counter = 0;
+		Node prev = null;
+		Node cur = head;
+		if (cur == null) {
+			System.out.println("list is empty cannot add");
+			insert_At_Beg(data);
 		} else {
-			Node cur = new Node();
-			cur = head;
-			{
-				while (cur != null) {
-					System.out.println(cur.data + "->");
-					cur = cur.next;
+			while (counter < position&&cur!=null) {
+				prev = cur;
+				cur = cur.getNext();
+				counter++;
+			}
+			Node temp = new Node(data);
+			prev.setNext(temp);
+			temp.setNext(cur);
+		}
 
-				}
+	}
+	void deleteFirstNode()
+	{
+		if(head==null)
+		{
+			System.out.println("Invalid operation as list is empty");
+		}
+		else
+		{
+			head=head.getNext();
+		}
+	}
+	void deleteLastNode()
+	{
+		if(head==null)
+		{
+			System.out.println("no node to delete list is already empty");
+		}
+		else if(head.getNext()==null)
+		{
+			head=null;
+		}
+		else
+		{ Node prev=head;
+			while(prev.getNext().getNext()!=null)
+			{
+				prev=prev.getNext();
+			}
+			prev.setNext(null);
+		}
+	}
+	void displayList()
+	{
+		Node current=head;
+		if(current==null)
+			System.out.println("list ies empty");
+		else
+		{
+			while(current!=null)
+			{    System.out.print(current.getData()+"--->");
+				current=current.getNext();
+				listLength++;
 			}
 		}
 	}
