@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93e639dd-19a0-4d07-969d-c6df8269fc2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28e9PIoIv8hwMOSZHUURr2sDMET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Pattern14">
+    <configuration name="Patter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Patter" />
+      <module name="learningDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Patter13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Patter13" />
+      <module name="learningDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Pattern12" />
+      <module name="learningDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Pattern13" />
+      <module name="learningDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Pattern14" />
+      <module name="learningDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pattern14" />
+        <item itemvalue="Application.Pattern13" />
+        <item itemvalue="Application.Patter13" />
+        <item itemvalue="Application.Patter" />
+        <item itemvalue="Application.Pattern12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e639dd-19a0-4d07-969d-c6df8269fc2b" name="Default Changelist" comment="" />
+      <created>1651566159766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651566159766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
