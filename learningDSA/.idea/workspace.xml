@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93e639dd-19a0-4d07-969d-c6df8269fc2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/pattern/Pattern9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/LongestPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +36,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Pattern14">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LongestPrefix">
+    <configuration name="LongestPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.LongestPrefix" />
+      <module name="learningDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Patter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Patter" />
       <module name="learningDSA" />
@@ -68,19 +73,6 @@
     </configuration>
     <configuration name="Patter13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Patter13" />
-      <module name="learningDSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learning.pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Pattern12" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestPrefix" />
         <item itemvalue="Application.Pattern14" />
         <item itemvalue="Application.Pattern13" />
         <item itemvalue="Application.Patter13" />
         <item itemvalue="Application.Patter" />
-        <item itemvalue="Application.Pattern12" />
       </list>
     </recent_temporary>
   </component>
@@ -149,5 +141,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
