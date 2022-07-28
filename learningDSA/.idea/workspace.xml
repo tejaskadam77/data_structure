@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93e639dd-19a0-4d07-969d-c6df8269fc2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/LongestPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/BenjaminBulbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/GCDAndLCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/PrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/PythagorasTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/RotateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/ReverseDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetCode/LongestPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetCode/LongestPrefix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +35,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="28e9PIoIv8hwMOSZHUURr2sDMET" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -43,14 +63,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pepcoding" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LongestPrefix">
-    <configuration name="LongestPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.LongestPrefix" />
+  <component name="RunManager" selected="Application.Pattern6">
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern2" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="pepcodingPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Patter" />
+    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern3" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="PATTERN" value="pepcodingPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patter13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Patter13" />
+    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern4" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="PATTERN" value="pepcodingPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Pattern13" />
+    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern5" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="PATTERN" value="pepcodingPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.pattern.Pattern14" />
+    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern6" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learning.pattern.*" />
+          <option name="PATTERN" value="pepcodingPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestPrefix" />
-        <item itemvalue="Application.Pattern14" />
-        <item itemvalue="Application.Pattern13" />
-        <item itemvalue="Application.Patter13" />
-        <item itemvalue="Application.Patter" />
+        <item itemvalue="Application.Pattern6" />
+        <item itemvalue="Application.Pattern5" />
+        <item itemvalue="Application.Pattern4" />
+        <item itemvalue="Application.Pattern3" />
+        <item itemvalue="Application.Pattern2" />
       </list>
     </recent_temporary>
   </component>
@@ -142,5 +165,56 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksForGeeks/mathematics/GCD.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksForGeeks/mathematics/GCD.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksForGeeks/mathematics/AllDivisors.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksForGeeks/mathematics/AllDivisors.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksForGeeks/mathematics/AllDivisors.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksForGeeks/recursion/PowerSolution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/geeksForGeeks/linkedList/SinglyLinkedListSolution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
