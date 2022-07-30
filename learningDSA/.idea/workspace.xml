@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93e639dd-19a0-4d07-969d-c6df8269fc2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/BenjaminBulbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/GCDAndLCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/PrimeFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/PythagorasTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/RotateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/ReverseDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetCode/LongestPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetCode/LongestPrefix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +68,9 @@
       <recent name="pepcoding" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern6">
-    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern2" />
+  <component name="RunManager" selected="Application.Pattern20">
+    <configuration name="Pattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern16" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern3" />
+    <configuration name="Pattern17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern17" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern4" />
+    <configuration name="Pattern18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern18" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern5" />
+    <configuration name="Pattern19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern19" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern6" />
+    <configuration name="Pattern20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern20" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern6" />
-        <item itemvalue="Application.Pattern5" />
-        <item itemvalue="Application.Pattern4" />
-        <item itemvalue="Application.Pattern3" />
-        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern20" />
+        <item itemvalue="Application.Pattern19" />
+        <item itemvalue="Application.Pattern18" />
+        <item itemvalue="Application.Pattern17" />
+        <item itemvalue="Application.Pattern16" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +214,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java</url>
           <line>10</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern10.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
