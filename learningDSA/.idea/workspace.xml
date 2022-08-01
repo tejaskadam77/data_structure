@@ -5,22 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93e639dd-19a0-4d07-969d-c6df8269fc2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/functions/AnyBaseAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/functions/AnyBaseMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/functions/AnyBasetoAnyBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/functions/DecimalToAnyBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/functions/DigitFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/functions/Introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/functions/ToDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/BenjaminBulbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/BenjaminBulbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/GCDAndLCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/GCDAndLCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/InverseDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/PepCodingMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/PepCodingMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/PrimeFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/PrimeFactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/PythagorasTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/PythagorasTriplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/ReverseDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/ReverseDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/RotateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/RotateNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcoding/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/basics/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/BenjaminBulbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/GCDAndLCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/InverseDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/PepCodingMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/PrimeFactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/PythagorasTriplet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/ReverseDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcoding/RotateNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcodingPatterns/Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcodingPatterns/Pattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcodingPatterns/Pattern3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcodingPatterns/Pattern4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcodingPatterns/Pattern5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pepcodingPatterns/Pattern6.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +103,13 @@
       <recent name="pepcoding" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern20">
-    <configuration name="Pattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern16" />
+  <component name="RunManager" selected="Application.AnyBaseMultiplication">
+    <configuration name="AnyBaseAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.functions.AnyBaseAddition" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern17" />
+    <configuration name="AnyBaseMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.functions.AnyBaseMultiplication" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern18" />
+    <configuration name="AnyBasetoAnyBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.functions.AnyBasetoAnyBase" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern19" />
+    <configuration name="DecimalToAnyBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.functions.DecimalToAnyBase" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern20" />
+    <configuration name="ToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.functions.ToDecimal" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern20" />
-        <item itemvalue="Application.Pattern19" />
-        <item itemvalue="Application.Pattern18" />
-        <item itemvalue="Application.Pattern17" />
-        <item itemvalue="Application.Pattern16" />
+        <item itemvalue="Application.AnyBaseMultiplication" />
+        <item itemvalue="Application.AnyBaseAddition" />
+        <item itemvalue="Application.AnyBasetoAnyBase" />
+        <item itemvalue="Application.ToDecimal" />
+        <item itemvalue="Application.DecimalToAnyBase" />
       </list>
     </recent_temporary>
   </component>
@@ -206,19 +241,24 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/basics/InverseDigits.java</url>
           <line>12</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/basics/InverseDigits.java</url>
           <line>10</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern10.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern10.java</url>
           <line>38</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/functions/DecimalToAnyBase.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
