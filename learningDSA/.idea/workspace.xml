@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93e639dd-19a0-4d07-969d-c6df8269fc2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pepcoding/recursion/FloodFill.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -58,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,13 +55,13 @@
       <recent name="pepcoding" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern20">
-    <configuration name="Pattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern16" />
+  <component name="RunManager" selected="Application.PrintPermutation">
+    <configuration name="PrintKPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.recursion.PrintKPC" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern17" />
+    <configuration name="PrintPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.recursion.PrintPermutation" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern18" />
+    <configuration name="PrintStairPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.recursion.PrintStairPaths" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern19" />
+    <configuration name="PrintSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.recursion.PrintSubSequence" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pepcodingPatterns.Pattern20" />
+    <configuration name="permutationsOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pepcoding.stringExamples.permutationsOfString" />
       <module name="learningDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pepcodingPatterns.*" />
+          <option name="PATTERN" value="pepcoding.stringExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern20" />
-        <item itemvalue="Application.Pattern19" />
-        <item itemvalue="Application.Pattern18" />
-        <item itemvalue="Application.Pattern17" />
-        <item itemvalue="Application.Pattern16" />
+        <item itemvalue="Application.PrintPermutation" />
+        <item itemvalue="Application.PrintSubSequence" />
+        <item itemvalue="Application.permutationsOfString" />
+        <item itemvalue="Application.PrintStairPaths" />
+        <item itemvalue="Application.PrintKPC" />
       </list>
     </recent_temporary>
   </component>
@@ -206,19 +193,74 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/basics/InverseDigits.java</url>
           <line>12</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/InverseDigits.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/basics/InverseDigits.java</url>
           <line>10</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pepcodingPatterns/Pattern10.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/patterns/Pattern10.java</url>
           <line>38</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/functions/DecimalToAnyBase.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/arrayWork/SpanOfArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/arrayWork/ArraySum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/arrayWork/ArrayReverse.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/arrayWork/BinarySearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/dimensionArray/MatrixMultiplication.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/stringExamples/StringExamples.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/stringExamples/RemovePrimeNumbers.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/recursion/ArraYFirstIndex.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/stringExamples/permutationsOfString.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pepcoding/recursion/PrintSubSequence.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
